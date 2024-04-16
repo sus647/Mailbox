@@ -1,0 +1,14 @@
+C:\Users\karki\RiderProjects\Mailbox\Mailbox\obj\Debug\net8.0\Mailbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karki\RiderProjects\Mailbox\Mailbox\obj\Debug\net8.0\Mailbox.AssemblyInfoInputs.cache
+C:\Users\karki\RiderProjects\Mailbox\Mailbox\obj\Debug\net8.0\Mailbox.AssemblyInfo.cs
+C:\Users\karki\RiderProjects\Mailbox\Mailbox\obj\Debug\net8.0\Mailbox.csproj.CoreCompileInputs.cache
+C:\Users\karki\RiderProjects\Mailbox\Mailbox\bin\Debug\net8.0\Mailbox.exe
+C:\Users\karki\RiderProjects\Mailbox\Mailbox\bin\Debug\net8.0\Mailbox.deps.json
+C:\Users\karki\RiderProjects\Mailbox\Mailbox\bin\Debug\net8.0\Mailbox.runtimeconfig.json
+C:\Users\karki\RiderProjects\Mailbox\Mailbox\bin\Debug\net8.0\Mailbox.dll
+C:\Users\karki\RiderProjects\Mailbox\Mailbox\bin\Debug\net8.0\Mailbox.pdb
+C:\Users\karki\RiderProjects\Mailbox\Mailbox\obj\Debug\net8.0\Mailbox.dll
+C:\Users\karki\RiderProjects\Mailbox\Mailbox\obj\Debug\net8.0\refint\Mailbox.dll
+C:\Users\karki\RiderProjects\Mailbox\Mailbox\obj\Debug\net8.0\Mailbox.pdb
+C:\Users\karki\RiderProjects\Mailbox\Mailbox\obj\Debug\net8.0\Mailbox.genruntimeconfig.cache
+C:\Users\karki\RiderProjects\Mailbox\Mailbox\obj\Debug\net8.0\ref\Mailbox.dll
